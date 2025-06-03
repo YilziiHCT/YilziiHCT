@@ -69,53 +69,14 @@
 ###
 
 ## <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/2b50.png" width="28px" style="vertical-align: middle;"> Featured Projects
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 40px 0; padding: 0 20px; max-width: 1200px; margin-left: auto; margin-right: auto;">
-  <!-- Giveaway Project -->
-  <div style="flex: 1 1 300px; max-width: 350px;">
-    <div style="background: rgba(13, 17, 23, 0.7); padding: 20px; border-radius: 15px; border: 1px solid #30363D;">
-      <div style="display: flex; align-items: center; gap: 10px;">
-        <img src="https://img.icons8.com/color/48/000000/gift--v1.png" width="36" alt="Giveaway Icon"/>
-        <h3 style="color: #58A6FF; margin: 0; font-size: 1.3rem;">Giveaway Website</h3>
-      </div>
-      <p style="color: #8B949E; margin: 10px 0;">Platform giveaway modern dengan UI keren dan animasi halus</p>
-      <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-        <span style="background: rgba(31, 111, 235, 0.15); color: #58A6FF; padding: 4px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">HTML</span>
-        <span style="background: rgba(31, 111, 235, 0.15); color: #58A6FF; padding: 4px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">CSS</span>
-        <span style="background: rgba(31, 111, 235, 0.15); color: #58A6FF; padding: 4px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">JavaScript</span>
-        <span style="background: rgba(31, 111, 235, 0.15); color: #58A6FF; padding: 4px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">UI/UX</span>
-      </div>
-      <div style="margin-top: 15px; text-align: center;">
-        <a href="https://giveaway.yilziii.com/" target="_blank" style="color: #58A6FF; font-weight: 500; text-decoration: none;">giveaway.yilziii.com →</a>
-      </div>
-    </div>
-  </div>
-  <!-- Portfolio Project -->
-  <div style="flex: 1 1 300px; max-width: 350px;">
-    <div style="background: rgba(13, 17, 23, 0.7); padding: 20px; border-radius: 15px; border: 1px solid #30363D;">
-      <div style="display: flex; align-items: center; gap: 10px;">
-        <img src="https://img.icons8.com/color/48/000000/developer.png" width="36" alt="Portfolio Icon"/>
-        <h3 style="color: #58A6FF; margin: 0; font-size: 1.3rem;">YilziDev Portfolio</h3>
-      </div>
-      <p style="color: #8B949E; margin: 10px 0;">Portofolio profesional yang menampilkan karya dan keahlian terbaik saya</p>
-      <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-        <span style="background: rgba(31, 111, 235, 0.15); color: #58A6FF; padding: 4px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">React</span>
-        <span style="background: rgba(31, 111, 235, 0.15); color: #58A6FF; padding: 4px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Tailwind</span>
-        <span style="background: rgba(31, 111, 235, 0.15); color: #58A6FF; padding: 4px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Framer Motion</span>
-        <span style="background: rgba(31, 111, 235, 0.15); color: #58A6FF; padding: 4px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: 500;">Responsive</span>
-      </div>
-      <div style="margin-top: 15px; text-align: center;">
-        <a href="https://yilzidev.tech/" target="_blank" style="color: #58A6FF; font-weight: 500; text-decoration: none;">yilzidev.tech →</a>
-      </div>
-    </div>
-  </div>
-</div>
-
-###
-
-## <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f40d.png" width="28px" style="vertical-align: middle;"> Contribution Graph
-<div style="display: flex; justify-content: center; background: rgba(13, 17, 23, 0.7); padding: 20px; border-radius: 15px; border: 1px solid #30363D; margin: 30px 0;">
-  <img src="https://raw.githubusercontent.com/YilziiHCT/YilziiHCT/main/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" style="width: 100%; max-width: 800px;"/>
-</div>
+- **Giveaway Website**
+  - Platform giveaway modern dengan UI keren dan animasi halus
+  - Teknologi: HTML, CSS, JavaScript, UI/UX
+  - [giveaway.yilziii.com →](https://giveaway.yilziii.com/)
+- **YilziDev Portfolio**
+  - Portofolio profesional yang menampilkan karya dan keahlian terbaik saya
+  - Teknologi: React, Tailwind, Framer Motion, Responsive
+  - [yilzidev.tech →](https://yilzidev.tech/)
 
 ###
 
@@ -151,8 +112,9 @@
     border-color: #58A6FF;
   }
   @media (max-width: 768px) {
-    div[style*="flex: 1 1 300px;"] {
-      max-width: 100%;
+    div[style*="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;"] {
+      flex-direction: column;
+      align-items: center;
     }
   }
 </style>
