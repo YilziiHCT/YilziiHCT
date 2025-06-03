@@ -84,37 +84,3 @@
   <img src="https://komarev.com/ghpvc/?username=YilziiHCT&label=PROFILE+VIEWS&style=for-the-badge&color=1F6FEB&labelColor=121212" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/YilziiHCT?label=FOLLOWERS&style=for-the-badge&color=1F6FEB&labelColor=121212" alt="Followers"/>
 </div>
-
-<style>
-  body {
-    background-color: #0D1117;
-    color: #E6EDF3;
-    font-family: 'Inter', sans-serif;
-  }
-  h2 {
-    color: #58A6FF;
-    position: relative;
-    display: inline-block;
-  }
-  h2::after {
-    content: '';
-    position: absolute;
-    bottom: -5px;
-    left: 0;
-    width: 100%;
-    height: 2px;
-    background: linear-gradient(90deg, #58A6FF, transparent);
-  }
-  a:hover {
-    color: #58A6FF;
-  }
-  div[style*="background: rgba(13, 17, 23, 0.7); padding: 20px; border-radius: 15px;"]:hover {
-    border-color: #58A6FF;
-  }
-  @media (max-width: 768px) {
-    div[style*="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;"] {
-      flex-direction: column;
-      align-items: center;
-    }
-  }
-</style>
