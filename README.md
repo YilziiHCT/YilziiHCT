@@ -1,40 +1,34 @@
 # Hi, I'm Yilzi! 👋
 
-**Full Stack Developer | UI/UX Enthusiast | Indonesia**
-
-<div align="center">
-  <img src="https://qu.ax/PzqlB.jpg" width="200" style="border-radius: 50%;" alt="Yilzi Profile"/>
-</div>
-
 ---
 
 ### ⌗ Works
 <p>
-<img height="40" width="40" src="https://cdn.simpleicons.org/html5" title="HTML5"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/css3" title="CSS3"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/javascript" title="JavaScript"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/typescript" title="TypeScript"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/react" title="React"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/nextdotjs" title="Next.js"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/vuedotjs" title="Vue.js"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/nuxtdotjs" title="Nuxt.js"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/tailwindcss" title="Tailwind CSS"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/bootstrap" title="Bootstrap"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/php" title="PHP"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/laravel" title="Laravel (Blade)"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs" title="Node.js"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/python" title="Python"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/go" title="Golang"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/mysql" title="MySQL"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/mongodb" title="MongoDB"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/postgresql" title="PostgreSQL"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/redis" title="Redis"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt.js" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" title="Golang" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" width="40" height="40"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/firebase" title="Firebase"/>
 <img height="40" width="40" src="https://cdn.simpleicons.org/supabase" title="Supabase"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/docker" title="Docker"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/git" title="Git"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/figma" title="Figma"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/visualstudiocode" title="VS Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40"/>
 </p>
 
 ### ⌗ Stats
