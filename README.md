@@ -79,8 +79,8 @@ open_to : Freelance & Collaboration
 
 | Project | Description | Link |
 |---|---|---|
-| **Giveaway Website** | Platform giveaway modern dengan UI keren & animasi halus | [giveaway.yilziii.com](https://giveaway.yilziii.com/) |
-| **YilziDev Portfolio** | Portofolio profesional yang menampilkan karya dan keahlian | [yilzidev.tech](https://yilzidev.tech/) |
+| **Giveaway Website** | Platform giveaway modern dengan UI keren & animasi halus | [Shop](https://shop.yilzicode.com/) |
+| **YilziDev Portfolio** | Portofolio profesional yang menampilkan karya dan keahlian | [portofolio](https://yilzicode.com/) |
 
 ---
 
