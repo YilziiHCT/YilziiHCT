@@ -1,8 +1,6 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    🎮 PLAYER HAS ENTERED THE GAME 🎮          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d1117,50:161b22,100:6366f1&text=YILZI&fontColor=e2e8f0&fontSize=90&fontAlignY=45&desc=⚔️%20FULL%20STACK%20DEVELOPER%20•%20CLOUD%20ARCHITECT%20•%20CYBER%20WARRIOR%20⚔️&descSize=16&descAlignY=70&animation=fadeIn&stroke=6366f1&strokeWidth=2" width="100%"/>
 
@@ -26,9 +24,7 @@
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    🎮 CHARACTER SELECT SCREEN                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+
 
 <br>
 
@@ -80,19 +76,13 @@ const Yilzi = {
 </table>
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ⚔️ WEAPON INVENTORY (TECH STACK)            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+
 
 <div align="center">
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## ⚔️ WEAPON INVENTORY
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
@@ -178,19 +168,13 @@ const Yilzi = {
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    🏆 TROPHY ROOM                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+
 
 <br>
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## 🏆 TROPHY ROOM
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
@@ -198,19 +182,13 @@ const Yilzi = {
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    📊 BATTLE STATS (GITHUB STATS)              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+
 
 <br>
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## 📊 BATTLE STATISTICS
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
@@ -228,19 +206,13 @@ const Yilzi = {
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    🐍 SNAKE CONTRIBUTION                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+
 
 <br>
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## 🐍 CONTRIBUTION SNAKE
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
@@ -252,19 +224,13 @@ const Yilzi = {
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    🗺️ QUEST LOG (PROJECTS)                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+
 
 <br>
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## 🗺️ QUEST LOG — FEATURED PROJECTS
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
@@ -287,19 +253,13 @@ const Yilzi = {
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    🏰 GUILD HALL (CONNECT)                     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+
 
 <br>
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## 🏰 GUILD HALL — CONNECT WITH ME
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
