@@ -125,16 +125,6 @@ const Yilzi = {
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Role | Link |
-|:---|:---|:---:|:---:|
-| **YilziDev Portfolio** | Professional portfolio showcasing skills and works | Full Stack | [🌐 Launch](https://yilzicode.com/) |
-| **YilziCode Shop** | Modern web shop with premium UI and transaction system | Full Stack | [🌐 Launch](https://shop.yilzicode.com/) |
-| **SuperFastOTP** | Fast and reliable OTP purchase platform | Backend/Cloud | [🌐 Launch](https://superfastotp.com/) |
-
----
-
 ### 📊 GitHub Statistics
 
 <div align="center">
